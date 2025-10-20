@@ -1,0 +1,4 @@
+# Core NLP and Web Interface Libraries
+spacy
+nltk
+gradio
